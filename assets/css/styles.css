@@ -244,14 +244,14 @@ img {
 }
 /*.about__subtitle {
   margin-bottom: var(--mb-2);
-}*/
+}
 .about__img {
   justify-self: center;
 }
 .about__img img {
   width: 400px;
   border-radius: 0.5rem;
-}
+}*/
 
 /* ===== SKILLS =====*/
 .skills__container {
